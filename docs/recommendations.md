@@ -7,7 +7,7 @@
     - Driver incentives: bonuses for quick arrival
     - Cancellation policy: fixed reasons with penalties
 
-2.**Payment Success Rate**
+2. **Payment Success Rate**
     - Integrate alternative payment methods
     - Push/Email alerts for failed payments
     - Retry function for automatic re-charging
