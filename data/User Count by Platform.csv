@@ -1,0 +1,16 @@
+"age_range","platform","total_users"
+"18-24",android,547
+"18-24",ios,1118
+"18-24",web,200
+"25-34",android,999
+"25-34",ios,2117
+"25-34",web,331
+"35-44",android,1509
+"35-44",ios,3134
+"35-44",web,538
+"45-54",android,546
+"45-54",ios,1099
+"45-54",web,181
+Unknown,android,1547
+Unknown,ios,3260
+Unknown,web,497

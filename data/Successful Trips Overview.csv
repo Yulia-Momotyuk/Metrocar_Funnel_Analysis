@@ -1,0 +1,16 @@
+"age_range","platform","successful_trips"
+"18-24",android,6790
+"18-24",ios,14717
+"18-24",web,2539
+"25-34",android,12807
+"25-34",ios,27430
+"25-34",web,3884
+"35-44",android,19481
+"35-44",ios,40025
+"35-44",web,7347
+"45-54",android,6474
+"45-54",ios,14233
+"45-54",web,1968
+Unknown,android,19879
+Unknown,ios,39741
+Unknown,web,6337
