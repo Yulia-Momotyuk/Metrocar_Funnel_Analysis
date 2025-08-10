@@ -52,16 +52,16 @@ ng revenue peak hours, increase driver engagement and optimize dispatch algorith
 
 ---
 
-## 📍 Segmentation Insights
+## Segmentation Insights
 
-### 📱 By Platform:
+### By Platform:
 | Platform | Users | Engagement | Feedback Volume |
 | --- | --- | --- | --- |
 | **iOS** | 10,728 (60.9%) | Highest | ~20K reviews |
 | **Android** | 5,148 (29.2%) | Medium | ~9K reviews |
 | **Web** | 3,247 (9.9%) | Lowest | <3% review |
 
-### 👥 By Age Group:
+### By Age Group:
 - **Largest segment:** 35–44 years — active, loyal, most frequent feedback providers.
 - **Smallest segment:** 45–54 years — low participation.
 
